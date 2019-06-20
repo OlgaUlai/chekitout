@@ -4,10 +4,17 @@
 vsegda sochiniyay mechty
 skoro budet vse sbyvatsia
 skoro budet vse sbyvatisia
+<<<<<<< HEAD
 
 some content 
 
-add here
-
 yo
---------------------
+---
+
+>>>>>>> 00be60fe183abe7fac2bed36ccaf0ad86ab0976b
+
+
+kogda jescze nie znayesh
+kakim byt nado
+surivym ili prikolnym
+svobodnym ili zenatym
